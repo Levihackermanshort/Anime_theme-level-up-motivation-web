@@ -9,6 +9,34 @@
   color: white;
 }
 
+.app-nav {
+  background-color: #f8f9fa;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.app-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.app-nav li {
+  margin: 0 15px;
+}
+
+.app-nav a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
 .app-content {
   padding: 20px;
+}
+
+section {
+  margin-bottom: 30px;
 } 
