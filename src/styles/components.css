@@ -1,0 +1,25 @@
+.dashboard, .quest-list, .history-log, .stat-card, .quest-form {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.dashboard h2, .quest-list h2, .history-log h2 {
+  margin-top: 0;
+}
+
+.stat-card {
+  display: inline-block;
+  width: 150px;
+  text-align: center;
+}
+
+.quest-form input {
+  margin-right: 10px;
+  padding: 5px;
+}
+
+.quest-form button {
+  padding: 5px 10px;
+} 
